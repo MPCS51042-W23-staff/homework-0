@@ -46,8 +46,7 @@ Open `problem2/duplicates.py`, and implement the `find_duplicates`` function acc
 The Collatz conjecture is a famous unsolved problem in math that asks if the function
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="collatz.svg" height="100px">
-  <img alt="The Collatz Conjecture Function" src="collatz.svg" height="100px" style="filter: invert(1);">
+  <img alt="The Collatz Conjecture Function" src="collatz.svg" height="100px" style="background-color: #FFFFFF;">
 </picture>
 
 converges on *1* for all initial values of *n*.
