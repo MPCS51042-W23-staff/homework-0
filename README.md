@@ -1,6 +1,6 @@
 # Homework 0
 
-This homework will not count for a grade, but is highly recommended to get comfortable with using GitHub Classroom & practice concepts covered in our first week together.
+This homework will not count for a grade but is highly recommended to get comfortable with using GitHub Classroom & practice concepts covered in our first week together.
 
 ## Reminders
 
@@ -10,9 +10,9 @@ If you haven't already gotten set up with GitHub, you'll want to look at [Git Ba
 ### Environment 
 For this entire course, we are assuming you are running your code on the CS department Linux environment.  This environment already has Python 3.8 installed, as well as relevant packages such as `pytest`.
 
-You are free to develop in a setup of your choosing, but due to the infinite possible variations stemming from different operating systems, versions of Python, etc. we will not be able to provide support for issues you may run into specific to your local environment.
+You are free to develop in a setup of your choosing, but due to the infinite possible variations stemming from different operating systems, versions of Python, etc., we will not be able to provide support for issues you may run into specific to your local environment.
 
-You may want to look at [Using VS Code and SSH](https://uchicago-cs.github.io/student-resource-guide/vscode/ssh.html) if you want to edit files on your machine and run them on the department Linux servers.
+You may want to look at [Using VS Code and SSH](https://uchicago-cs.github.io/student-resource-guide/vscode/ssh.html) if you want to edit files on your machine and run them on the department's Linux servers.
 
 ### Style Guide
 We expect you to follow the department [style guide](https://uchicago-cs.github.io/student-resource-guide/style-guide/python.html).
@@ -25,7 +25,7 @@ Each problem comes with some helpful tests.  These are not guaranteed to be comp
 
 You can run `pytest` from this directory to run all tests for the homework.
 
-It is likely more useful to either run `pytest` from within a subdirectory (e.g. `problem1/`) or, alternatively, `pytest problem1` from the main directory.
+It is likely more useful to either run `pytest` from within a subdirectory (e.g. `problem1/`) or `pytest problem1` from the main directory.
 
 If you'd like `pytest` to stop after a single failure, add the `-x` flag.
 
@@ -35,11 +35,11 @@ It can also be useful to add the `-v` tag sometimes to get more verbose output.
 
 ### Problem 1
 
-Open `problem1/leap_year.py`, implement the `is_leap_year` function according to the specifications provided.
+Open `problem1/leap_year.py`, and implement the `is_leap_year`` function according to the specifications provided.
 
 ### Problem 2
 
-Open `problem2/duplicates.py`, implement the `find_duplicates` function according to the specifications provided.
+Open `problem2/duplicates.py`, and implement the `find_duplicates`` function according to the specifications provided.
 
 ### Problem 3
 
@@ -56,7 +56,7 @@ converges on *1* for all initial values of *n*.
 
 We're going to implement two functions that will allow us to test given values of n.
 
-Open `problem3/collatz.py`, implement the two functions.
+Open `problem3/collatz.py`, and implement the two functions.
 
 Note: Keep the difference between `/` and `//` in mind.
 
